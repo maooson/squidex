@@ -68,7 +68,7 @@
     <PackageReference Include="Microsoft.OData.Core" Version="7.3.1" />
     <PackageReference Include="MongoDB.Driver" Version="2.4.4" />
     <PackageReference Include="NJsonSchema" Version="9.8.3" />
-    <PackageReference Include="NodaTime.Serialization.JsonNet" Version="2.0.0" />
+    <PackageReference Include="NodaTime.Serialization.JsonNet" Version="2.3.0" />
     <PackageReference Include="NSwag.AspNetCore" Version="11.10.0" />
     <PackageReference Include="OpenCover" Version="4.6.519" />
     <PackageReference Include="RefactoringEssentials" Version="5.2.0" />
